@@ -19,7 +19,6 @@ const SignInCard = () => {
           placeholder="Enter email address"
           disabled={false}
           />
-
         <Input
           required
           type="password"
